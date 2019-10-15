@@ -1,5 +1,5 @@
 # Text and Image Indexing
-Nama : Muhammad Mulqan
+Nama : Muhammad Mulqan</br>
 NIM  : 1708107010043
 
 ## A. Text Indexing dengan Swish-e
